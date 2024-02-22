@@ -17,4 +17,3 @@ def main():
 
 # Call the main function to execute the code
 if __name__ == "__main__":
-result = add_numbers(num1, num2)
