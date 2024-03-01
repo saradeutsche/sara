@@ -16,4 +16,4 @@ def main():
     print("The sum of", num1, "and", num2, "is:", result)
 
 # Call the main function to execute the code
-if __name__ == "__main__
+if __name__ == "__main_
