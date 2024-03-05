@@ -11,5 +11,3 @@ def main():
 
     # Call the function to add numbers
     result = add_numbers(num1, num2)
-
-    # Display the res
