@@ -10,4 +10,3 @@ def main():
     num2 = float(input("Enter the second number: "))
 
     # Call the function to add numbers
-    result = add_numbers(num1, num2)
