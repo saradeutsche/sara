@@ -41,4 +41,4 @@ export default function CalorieCounter() {
         </div>
     );
 }
-67890
+678
